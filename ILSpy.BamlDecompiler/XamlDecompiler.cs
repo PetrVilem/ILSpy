@@ -72,7 +72,7 @@ namespace ILSpy.BamlDecompiler
 		{
 		}
 
-		internal XamlDecompiler(BamlDecompilerTypeSystem typeSystem, BamlDecompilerSettings settings)
+		public XamlDecompiler(BamlDecompilerTypeSystem typeSystem, BamlDecompilerSettings settings)
 		{
 			this.typeSystem = typeSystem ?? throw new ArgumentNullException(nameof(typeSystem));
 			this.settings = settings;

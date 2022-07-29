@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XamlExtractor": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\NetDecompilerCache\\SolarWinds.Orion.ActiveDiagnostics.exe_52ffaa2e560058bf79f39247b70544fcd899c8dd4ed93709185d1b60c00acbb2\\SolarWinds.Orion.ActiveDiagnostics.exe\r\nc:\\NetDecompilerCache\\SolarWinds.Orion.ActiveDiagnostics.exe_52ffaa2e560058bf79f39247b70544fcd899c8dd4ed93709185d1b60c00acbb2\\test"
+    }
+  }
+}

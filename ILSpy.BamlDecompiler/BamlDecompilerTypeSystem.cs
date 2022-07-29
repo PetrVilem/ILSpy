@@ -28,7 +28,7 @@ using ICSharpCode.Decompiler.Util;
 
 namespace ILSpy.BamlDecompiler
 {
-	class BamlDecompilerTypeSystem : SimpleCompilation, IDecompilerTypeSystem
+	public class BamlDecompilerTypeSystem : SimpleCompilation, IDecompilerTypeSystem
 	{
 		string[] defaultBamlReferences = new[] {
 				"mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
